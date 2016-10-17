@@ -1,0 +1,6 @@
+c:\users\heitor\documents\visual studio 2013\Projects\rock-paper-scissor\rock-paper-scissor\obj\Debug\rock-paper-scissor.csprojResolveAssemblyReference.cache
+C:\Users\heitor\Documents\Visual Studio 2013\Projects\rock-paper-scissor\rock-paper-scissor\bin\Debug\rock-paper-scissor.exe.config
+C:\Users\heitor\Documents\Visual Studio 2013\Projects\rock-paper-scissor\rock-paper-scissor\bin\Debug\rock-paper-scissor.exe
+C:\Users\heitor\Documents\Visual Studio 2013\Projects\rock-paper-scissor\rock-paper-scissor\bin\Debug\rock-paper-scissor.pdb
+C:\Users\heitor\Documents\Visual Studio 2013\Projects\rock-paper-scissor\rock-paper-scissor\obj\Debug\rock-paper-scissor.exe
+C:\Users\heitor\Documents\Visual Studio 2013\Projects\rock-paper-scissor\rock-paper-scissor\obj\Debug\rock-paper-scissor.pdb
